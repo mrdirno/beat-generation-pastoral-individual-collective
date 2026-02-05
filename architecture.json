@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_pastoral_individual_collective",
+  "title": "The Axe Explains",
+  "tagline": "In a forest commune, a runaway city boy must learn that true freedom is found not in solitude, but in the rhythm of the collective.",
+  "target_words": 70000,
+  "actual_words": 75254,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Search for Authentic Work",
+    "The Tension Between Solitude and Community",
+    "Rewilding the Self",
+    "Creating a New Language for Living"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The River Talks",
+      "words": 3135
+    },
+    {
+      "ch": 2,
+      "title": "The Syntax of Work",
+      "words": 3135
+    },
+    {
+      "ch": 3,
+      "title": "The First Council",
+      "words": 3135
+    },
+    {
+      "ch": 4,
+      "title": "The Unwritten Rules",
+      "words": 3135
+    },
+    {
+      "ch": 5,
+      "title": "The Garden's Demand",
+      "words": 3135
+    },
+    {
+      "ch": 6,
+      "title": "The Typewriter's Gaze",
+      "words": 3135
+    },
+    {
+      "ch": 7,
+      "title": "Friction",
+      "words": 3135
+    },
+    {
+      "ch": 8,
+      "title": "The Foraged Feast",
+      "words": 3135
+    },
+    {
+      "ch": 9,
+      "title": "Night Chores",
+      "words": 3135
+    },
+    {
+      "ch": 10,
+      "title": "The First Draft",
+      "words": 3135
+    },
+    {
+      "ch": 11,
+      "title": "Cracks in the Foundation",
+      "words": 3135
+    },
+    {
+      "ch": 12,
+      "title": "The Outside World Calls",
+      "words": 3135
+    },
+    {
+      "ch": 13,
+      "title": "The Collective Edict",
+      "words": 3135
+    },
+    {
+      "ch": 14,
+      "title": "Solitary Task",
+      "words": 3135
+    },
+    {
+      "ch": 15,
+      "title": "A New Rhythm",
+      "words": 3135
+    },
+    {
+      "ch": 16,
+      "title": "Harvest",
+      "words": 3135
+    },
+    {
+      "ch": 17,
+      "title": "The Winter Catalog",
+      "words": 3135
+    },
+    {
+      "ch": 18,
+      "title": "The Deepening Chill",
+      "words": 3135
+    },
+    {
+      "ch": 19,
+      "title": "Crisis of the Commons",
+      "words": 3135
+    },
+    {
+      "ch": 20,
+      "title": "The Vote",
+      "words": 3135
+    },
+    {
+      "ch": 21,
+      "title": "Exile or Embrace",
+      "words": 3135
+    },
+    {
+      "ch": 22,
+      "title": "The Thaw",
+      "words": 3135
+    },
+    {
+      "ch": 23,
+      "title": "The First Seed",
+      "words": 3135
+    },
+    {
+      "ch": 24,
+      "title": "The Next One Arrives",
+      "words": 3135
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of Marta, detailing her first winter alone in the cabin and the moment she decided to seek others.",
+      "Create a 'found document' from the commune: a page from their collectively-written 'Un-Catalog' of skills and philosophies.",
+      "Write a scene where a new arrival, very different from Leo, challenges the commune's established 'vibe'.",
+      "Imagine a chapter set five years later, when a journalist from the city arrives to write about the 'lost commune' and gets more than they bargained for."
+    ],
+    "technical": [
+      "Build a 'Vibe Check' interactive tool that maps user inputs (e.g., preferred work, social need, comfort with chaos) to a chapter or theme from the book.",
+      "Create a generative text model that writes in the style of the commune's collective journal, blending practical logging notes with haiku and philosophical fragments."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gary Snyder",
+      "Ursula K. Le Guin",
+      "Jack Kerouac",
+      "Robin Wall Kimmerer"
+    ]
+  },
+  "cover_prompt": "A young man, his back turned to us, swings a heavy splitting maul in a perfect arc towards a massive, gnarled log, the moment of impact frozen as wood fibers strain and burst, [Detailed Scene & Context: set at the golden hour in a sun-dappled forest clearing of a working commune, with rustic cabins visible among the tall pines and a group of diverse individuals gathered around a central fire pit, sharing food and conversation, embodying the rhythm of collective life], [Artistic Style & Medium: in the atmospheric, textured style of Andrew Wyeth's pastoral realism combined with the raw, expressive linework of Robert Crumb's underground comics, rendered in detailed ink and muted watercolor washes], [Composition & Camera: book cover framing, a centered and intimate composition with a low-angle view that emphasizes the figure's labor against the vast forest and sky, dramatic perspective], [Lighting & Color Palette: illuminated by the long, golden-hour sunlight casting deep, warm shadows and highlighting dust motes in the air, a palette of earthy ochres, forest greens, weathered wood browns, and soft twilight blues], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
