@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The bus exhaled a long, diesel sigh and the doors clattered open, releasing him into the damp. It wasn’t rain, not yet, just the Pacific Northwest’s permanent suggestion of one, a mist that hung in the air like a held breath. Leo shouldered his duffel, the canvas sour with mildew and old sweat, and stood on the gravel shoulder. The bus, a grumbling yellow beast, swallowed its doors and rolled away, leaving him in a silence so profound it rang.
@@ -87,6 +89,8 @@ He thought of the letter that had brought him here, found pinned under a wiper b
 He had been a ghost. Drifting through rooms, through jobs, through his own life. He’d come because he had nowhere else to go, because the offer was cryptic and specific at once, a lifeline thrown into the void.
 
 As he drifted toward sleep, the last clear thought he had was of the axe, falling true. *Thwock*. It wasn’t an end. It was a beginning, a first word spoken in a language he was only starting to hear.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -189,6 +193,8 @@ Leo, full and weary, thought of the blackberry thorns, the speared potato, the d
 Marta’s riverstone eyes held his. A slow nod. “Good. That’s the first verse of the only scripture that matters.” She leaned forward, the firelight carving deep lines in her face. “Tomorrow, you learn the second verse. Tomorrow, you meet the world.”
 
 A log collapsed in the stove, sending up a shower of sparks. No one spoke. But Leo felt it, a subtle shift in the room’s atmosphere. The gentle rhythm of the day held, underneath, a new, faint tension. The first verse was attention. He realized, with a quiet chill, that he didn’t know what the second verse would cost.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
